@@ -12,7 +12,6 @@ description: >-
   CDN. The domain was free using freenom.com, a great service for free .ml .tk.
   .gq .ga domains!
 intro:
-  blurbs: []
   heading: What
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
