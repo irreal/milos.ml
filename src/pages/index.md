@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Miloš Spasojević
-image: /img/profilna.jpg
+image: /img/kia.jpg
 heading: Damn
 subheading: Software developer
 mainpitch:
