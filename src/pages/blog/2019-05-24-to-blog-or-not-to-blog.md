@@ -6,7 +6,10 @@ description: The age old question for any developer.
 featuredpost: true
 featuredimage: /img/toblogornottoblog.jpeg
 tags:
-  - development blog meta habits
+  - development
+  - blog
+  - meta
+  - habits
 ---
 ![Laptop sitting on a desk, showing a new blog post screen, two hands seen typing](/img/toblogornottoblog.jpeg "Blog")
 
