@@ -4,20 +4,18 @@ title: About me
 ---
 ### A long time in Development
 
-Computers have always intrigued me. I started messing with a computers before I could even reach the keyboard. By the age of 6, my journey into making computer software was starting.
+Computers have always intrigued me. I started messing with a computers before I could even reach the keyboard. By the age of 6, my journey into making computer software had started.
 
-From those silly beginnings, a life story was formed.
+From those humble beginnings, a life story was formed.
 
-When I turned 18, I was already doing freelance work for smaller companies. A couple of years later, I landed a full time developer position and my "official career" started.
+When I turned 18, I was already doing freelance development work for a couple of companies. Two years later, I landed a full time developer position and my career officially started.
 
 ### Where I am now
 
-For the last 5 years, I've been in the position of Team Lead / Lead Software Engineer, where I first and foremost bring technical value to the team, but I also look at the bigger picture, planning out product roadmaps, giving ideas to product owners and evaluating theirs and all around being involved in designing products and solutions.
+For the last 5 years, I've been in the position of Team Lead / Lead Software Engineer, where I bring technical value to the team, working as the core part of the development team, but also looking at the bigger picture. Planning product roadmaps, giving ideas to product owners, hearing them out and evaluating their ideas. All around being involved in designing the products and solutions my teams are working on.
 
-My sights are set squarely on CTO type positions, but I'm definitely going to be one of those CTOs that gets close to the action.\
+Going forward, my sights are set squarely on CTO type positions. I am definitely going to be one of those CTOs that gets close to the action.\
 Now, I don't think an executive's time is best spent working on specific development tasks. But a CTO that stays up to date with development practices, researches new tools and approaches, holds technical talks and champions quality and maintainability is a powerful prospect in my mind.
-
-
 
 ### Past experience
 
