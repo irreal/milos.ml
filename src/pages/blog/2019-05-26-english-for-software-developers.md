@@ -74,7 +74,9 @@ I'm not going to expand further on language learning techniques, the internet is
 
 ## Disclaimer
 
-I am definitely not a native english speaker. My primary language is serbian, and I even suck at that at times. I'm a self taught english speaker, but I started young. When i was a little kid I watched a lot of cartoon network with no subtitles, and I started using a PC. Both were not possible without english. I later made an effort to pay close attention to english in every movie, tv show or cartoon I watched, picking up on the subtleties of the language.
+There are bound to be errors in this blog post. Maybe even basic ones. I'm sure there's some dodgy grammar here and there.
+
+I am definitely not a native english speaker. My primary language is serbian, and I even suck at that at times. I'm a self taught english speaker. When i was a little kid I watched a lot of cartoon network with no subtitles, and I started using a PC. Both were not possible without english, so I had little choice but to learn. I later made an effort to pay close attention to english in every movie, tv show or cartoon I watched, picking up on the subtleties of the language.
 
 I'm not saying my english is perfect by any stretch of the imagination, nor that everyone should simply copy what I am doing. I'm just giving my perspective as someone who has worked a lot with both native and non native english speaking devs.
 
