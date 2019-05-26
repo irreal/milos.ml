@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'milos.ml - personal website',
     description:
-      'This is my personal website used to showcase my career and host my blog that I use to practice writing.',
+      'This is my personal website used to showcase my career and host my blog.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
